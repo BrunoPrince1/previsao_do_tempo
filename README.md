@@ -79,6 +79,6 @@ test/            parser_test.dart
 
 ## Capturas de tela
 
-| Pesquisa | Previsão | Gráfico | Erro / dados salvos |
-| --- | --- | --- | --- |
-| ![Pesquisa](docs/screenshots/pesquisa.png) | ![Previsão](docs/screenshots/previsao.png) | ![Gráfico](docs/screenshots/grafico.png) | ![Erro](docs/screenshots/erro.png) |
+| Pesquisa | Previsão | Erro / dados salvos |
+| --- | --- | --- |
+| ![Pesquisa](docs/screenshots/pesquisa.png) | ![Previsão](docs/screenshots/previsao.png) | ![Erro](docs/screenshots/erro.png) |
