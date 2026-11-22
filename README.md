@@ -79,8 +79,6 @@ test/            parser_test.dart
 
 ## Capturas de tela
 
-Adicione as imagens em `docs/screenshots/` e ajuste os nomes abaixo.
-
 | Pesquisa | Previsão | Gráfico | Erro / dados salvos |
 | --- | --- | --- | --- |
 | ![Pesquisa](docs/screenshots/pesquisa.png) | ![Previsão](docs/screenshots/previsao.png) | ![Gráfico](docs/screenshots/grafico.png) | ![Erro](docs/screenshots/erro.png) |
